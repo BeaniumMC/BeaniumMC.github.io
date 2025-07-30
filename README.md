@@ -1,2 +1,3 @@
 # BeaniumMC.github.io
-The Beanium contributor website
+
+The Beanium contributor website.
