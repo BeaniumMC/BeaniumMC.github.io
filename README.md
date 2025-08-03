@@ -1,3 +1,3 @@
 # BeaniumMC.github.io
 
-The Beanium contributor website.
+The Beanium community website.
